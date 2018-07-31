@@ -1,2 +1,5 @@
+build:
+  languages:
+  - php
 run:
   web: vendor/bin/heroku-php-nginx
