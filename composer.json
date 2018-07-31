@@ -1,0 +1,11 @@
+{
+  "require": {
+    "php": "^7.1",
+    "ext-gd": "*",
+    "ext-mbstring": "*",
+    "ext-intl": "*"
+  },
+  "name": "somework/bitrix-heroku",
+  "license": "MIT",
+  "description": ""
+}
