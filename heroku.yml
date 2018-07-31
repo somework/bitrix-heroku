@@ -1,10 +1,2 @@
-#build:
-#  docker:
-#    mysql: Dockerfile.mysql
-#  config:
-#    MYSQL_ROOT_PASSWORD: superpassword
-#    MYSQL_DATABASE: bitrix
-#    MYSQL_USER: bitrix
-#    MYSQL_PASSWORD: password
 run:
   web: vendor/bin/heroku-php-nginx
